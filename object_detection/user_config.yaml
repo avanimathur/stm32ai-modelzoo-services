@@ -1,6 +1,6 @@
 general:
   project_name: COCO_2017_person_Demo
-  model_type: st_yolo_lc_v1
+  model_type: st_yolo_x
 #choices=[st_ssd_mobilenet_v1, ssd_mobilenet_v2_fpnlite, tiny_yolo_v2, st_yolo_lc_v1, 
 #         st_yolo_x, yolo_v8, yolo_v5u]
   model_path: 
